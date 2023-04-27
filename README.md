@@ -1,2 +1,2 @@
 # Notebooks
-Notebooks Pós Ciencia de Dados e Analytics PUC-RJ
+Notebooks MVPs da Pós em Ciencia de Dados e Analytics PUC-RJ
